@@ -1,0 +1,128 @@
+[DEVICE]
+Name=ATMEGA328
+Clock=8000000
+[FILES]
+File0=inverseur_auto.c
+Count=1
+[BINARIES]
+Count=0
+[IMAGES]
+Count=0
+ActiveImageIndex=-1
+[OPENED_FILES]
+File0=inverseur_auto.c
+Count=1
+[EEPROM]
+Count=0
+[ACTIVE_COMMENTS_FILES]
+Count=0
+[OTHER_FILES]
+Count=0
+[SEARCH_PATH]
+Path0=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Uses\lte64kw\
+Path1=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\BI HALL Click\Uses\
+Path2=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FAT32 Library\Uses\
+Path3=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FT800\Uses\
+Path4=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FT810\Uses\
+Path5=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FT812\Uses\
+Count=6
+[HEADER_PATH]
+Path0=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Uses\lte64kw\
+Path1=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\BI HALL Click\Uses\
+Path2=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FAT32 Library\Uses\
+Path3=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FT800\Uses\
+Path4=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FT810\Uses\
+Path5=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FT812\Uses\
+Count=6
+[HEADERS]
+Count=0
+[PLDS]
+Count=0
+[Useses]
+File0=BI_HALL_AVR_LT
+File1=FAT32_Defs_lte
+File2=FAT32_Driver_lte
+File3=FAT32_lte
+File4=FT800_Defs_LTE
+File5=FT800_LTE
+File6=FT810_Defs_LTE
+File7=FT810_LTE
+File8=FT812_Defs_LTE
+File9=FT812_LTE
+File10=ADC
+File11=Button
+File12=CAN_SPI
+File13=Compact_Flash
+File14=Compact_Flash_FAT16
+File15=Conversions
+File16=C_Math
+File17=C_Stdlib
+File18=C_String
+File19=C_Type
+File20=EEPROM
+File21=EPSON_S1D13700
+File22=FLASH
+File23=Glcd
+File24=Glcd_Fonts
+File25=Keypad4x4
+File26=Lcd
+File27=Lcd_Constants
+File28=Manchester
+File29=MemManager
+File30=Mmc
+File31=Mmc_FAT16
+File32=Mmc_Fat16_Config
+File33=One_Wire
+File34=Port_Expander
+File35=PrintOut
+File36=PS2
+File37=PWM1
+File38=PWM16bit
+File39=PWM2
+File40=RS485
+File41=Software_I2C
+File42=Software_SPI
+File43=Software_UART
+File44=Sound
+File45=SPI
+File46=SPI_Ethernet
+File47=SPI_Ethernet_24j600
+File48=SPI_Glcd
+File49=SPI_Lcd
+File50=SPI_Lcd8
+File51=SPI_T6963C
+File52=Sprintf
+File53=Sprinti
+File54=Sprintl
+File55=STMPE610
+File56=T6963C
+File57=TFT
+File58=TFT_16bit
+File59=TFT_16bit_Defs
+File60=TFT_Defs
+File61=TFT_TouchPanel
+File62=Time
+File63=TouchPanel
+File64=Trigonometry
+File65=TWI
+File66=UART
+Count=67
+[MEMORY_MODEL]
+Value=0
+[BUILD_TYPE]
+Value=0
+[ACTIVE_TAB]
+Value=inverseur_auto.c
+[USE_EEPROM]
+Value=0
+[USE_HEAP]
+Value=0
+[HEAP_SIZE]
+Value=0
+[EEPROM_DEFINITION]
+Value=
+[BOOT_TYPE]
+Value=0
+[EXPANDED_NODES]
+0=group_electrogene.mcpav
+Count=1
